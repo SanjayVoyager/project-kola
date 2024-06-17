@@ -1,0 +1,4 @@
+python-telegram-bot==21.3
+yt-dlp
+python-dotenv
+urllib3
